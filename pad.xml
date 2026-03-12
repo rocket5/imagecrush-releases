@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+    <MASTER_PAD_VERSION_INFO>
+        <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+        <MASTER_PAD_EDITOR>Hand-coded</MASTER_PAD_EDITOR>
+        <MASTER_PAD_INFO>Portable Application Description, or PAD, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+    </MASTER_PAD_VERSION_INFO>
+    <Company_Info>
+        <Company_Name>Rocket 5 Studios Inc.</Company_Name>
+        <Address_1 />
+        <City_Town />
+        <State_Province />
+        <Zip_Postal_Code />
+        <Country>Canada</Country>
+        <Company_WebSite_URL>https://rocket5studios.com</Company_WebSite_URL>
+        <Contact_First_Name>Tim</Contact_First_Name>
+        <Contact_Last_Name />
+        <Contact_Email>hello@rocket5studios.com</Contact_Email>
+    </Company_Info>
+    <Program_Info>
+        <Program_Name>ImageCrush</Program_Name>
+        <Program_Version>1.0</Program_Version>
+        <Program_Release_Month>03</Program_Release_Month>
+        <Program_Release_Day>11</Program_Release_Day>
+        <Program_Release_Year>2026</Program_Release_Year>
+        <Program_Cost_Dollars>14.99</Program_Cost_Dollars>
+        <Program_Cost_Other_Code />
+        <Program_Cost_Other />
+        <Program_Type>Shareware</Program_Type>
+        <Program_Release_Status>New Release</Program_Release_Status>
+        <Program_Install_Support>No Install Support</Program_Install_Support>
+        <Program_OS_Support>macOS 15.7 or later</Program_OS_Support>
+        <Program_Language>English</Program_Language>
+        <File_Info>
+            <File_Size_Bytes>7834691</File_Size_Bytes>
+            <File_Size_K>7651</File_Size_K>
+            <File_Size_MB>7.47</File_Size_MB>
+        </File_Info>
+        <Program_Specific_Category>Graphics</Program_Specific_Category>
+        <Program_Category_Class>Graphics::Converters</Program_Category_Class>
+        <Program_System_Requirements>macOS 15.7 (Sequoia) or later. Apple Silicon or Intel processor.</Program_System_Requirements>
+        <Expire_Info>
+            <Has_Expire_Info>Y</Has_Expire_Info>
+            <Expire_Count>7</Expire_Count>
+            <Expire_Based_On>Days</Expire_Based_On>
+            <Expire_Other_Info>7-day free trial with full functionality. No account required.</Expire_Other_Info>
+        </Expire_Info>
+    </Program_Info>
+    <Program_Descriptions>
+        <English>
+            <Keywords>image optimizer, batch image, image compression, image converter, jpg png webp heic avif, resize images, crop images, mac image optimizer, batch rename, image quality</Keywords>
+            <Char_Desc_45>Batch image optimizer for macOS</Char_Desc_45>
+            <Char_Desc_80>Batch optimize and convert JPG, PNG, WebP, HEIC, and AVIF images on your Mac</Char_Desc_80>
+            <Char_Desc_250>Batch optimize and convert JPG, PNG, WebP, HEIC, and AVIF images with drag-and-drop simplicity. Resize, crop, rename, and compress with precise quality control. All processing happens locally on your Mac with zero cloud uploads.</Char_Desc_250>
+            <Char_Desc_450>ImageCrush is a native macOS app for batch image optimization. Drag in files or entire folders, pick your output format and quality, and export. Features include concurrent processing with up to 8 threads, a built-in crop editor with 17 aspect ratio presets, custom export presets, batch renaming, before-and-after preview, and EXIF metadata control. All processing happens locally — images never leave your Mac.</Char_Desc_450>
+            <Char_Desc_2000>ImageCrush is a native macOS app for batch image optimization. Drag in files or entire folders, pick your output format and quality, and export — all without your images ever leaving your Mac.
+
+Features include:
+- Batch process hundreds of images at once with up to 8 concurrent threads
+- Import JPG, PNG, WebP, HEIC, and AVIF; export to JPG, PNG, WebP, HEIC, or AVIF
+- Quality slider with precise control from 1-100% for lossy formats
+- Resize images with max width/height constraints while preserving aspect ratio
+- Built-in crop editor with 17 aspect ratio presets for social, web, print, and cinematic use
+- Scale factor export (1x, 2x, 3x) with automatic naming for Retina assets
+- Save export configurations as custom presets and set a default that loads on launch
+- Batch rename files with custom names, suffixes, and sequence numbering
+- Before and after preview with interactive side-by-side comparison slider
+- Pause, resume, and cancel batch operations at any time
+- EXIF metadata control — keep or strip with one click
+- Undo and redo across every operation
+- 100% offline processing — images never leave your Mac
+- Built with native Apple frameworks, optimized for Apple Silicon and Intel Macs
+- Apple Notarized and App Sandbox enabled
+- Automatic updates via Sparkle</Char_Desc_2000>
+        </English>
+    </Program_Descriptions>
+    <Web_Info>
+        <Application_URLs>
+            <Application_Info_URL>https://imagecrush.io</Application_Info_URL>
+            <Application_Order_URL>https://checkout.freemius.com/product/25632/plan/42405/pricing/55862/</Application_Order_URL>
+            <Application_Screenshot_URL>https://imagecrush.io/screenshot.png</Application_Screenshot_URL>
+            <Application_Icon_URL>https://imagecrush.io/icon.png</Application_Icon_URL>
+            <Application_XML_File_URL>https://raw.githubusercontent.com/rocket5/imagecrush-releases/main/pad.xml</Application_XML_File_URL>
+        </Application_URLs>
+        <Download_URLs>
+            <Primary_Download_URL>https://github.com/rocket5/imagecrush-releases/releases/latest/download/ImageCrush.dmg</Primary_Download_URL>
+            <Secondary_Download_URL />
+            <Additional_Download_URL_1 />
+            <Additional_Download_URL_2 />
+        </Download_URLs>
+    </Web_Info>
+</XML_DIZ_INFO>
