@@ -6,6 +6,43 @@
     <description>Most recent updates to ImageCrush.</description>
     <language>en</language>
     <item>
+      <title>Version 1.1</title>
+      <description><![CDATA[
+        <h3>New Features</h3>
+        <ul>
+          <li>Watermark overlay — text or image/logo support, three layout styles, adjustable opacity/size/color/position, and live preview</li>
+          <li>Preset sequence orchestrator — batch export using multiple presets in sequence</li>
+          <li>Per-image results table in export complete dialog</li>
+          <li>CSV export of optimization results</li>
+          <li>Fixed-size cropping with crop width option</li>
+          <li>Live crop dimensions in crop editor</li>
+          <li>Update Preset — overwrite existing preset with current settings</li>
+        </ul>
+        <h3>Improvements</h3>
+        <ul>
+          <li>Crop button moved to queue items for easier access</li>
+          <li>Sequence and preset management UI refined</li>
+          <li>Before/after preview now crops the "before" image to match all crop modes</li>
+          <li>Sequence export summary shows per-preset savings</li>
+          <li>Quality slider disabled for PNG format (lossless)</li>
+        </ul>
+        <h3>Bug Fixes</h3>
+        <ul>
+          <li>Fixed WebP encoding failure on large images at high quality settings</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 -0500</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/rocket5/imagecrush-releases/releases/download/v1.1.0/ImageCrush.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="GwKrqYsQxoQz9Sv6a5aVRgxXNBjM4M0d3JrKh7Xdvh7EjRg5rzDayf+KwIZlcYylvL92jW5HVRtWUZQmauuZDg=="
+        length="7624886"
+      />
+    </item>
+    <item>
       <title>Version 1.0</title>
       <description><![CDATA[
         <ul>
