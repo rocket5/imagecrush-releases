@@ -6,6 +6,24 @@
     <description>Most recent updates to ImageCrush.</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.2</title>
+      <description><![CDATA[
+        <ul>
+          <li>Test update — verifying Sparkle installer works from v1.1.1</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 16 Mar 2026 20:00:00 -0500</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/rocket5/imagecrush-releases/releases/download/v1.1.1/ImageCrush.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="AAfPaGEDQotkuPNmVoTQRIJOW8jmea994bsmJSO5mKZBR1rQpLpioUP7NsexpsF5gQI5iSy8u0YvUYsxyCQdCw=="
+        length="7625168"
+      />
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <description><![CDATA[
         <ul>
