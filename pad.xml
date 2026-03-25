@@ -19,9 +19,9 @@
     </Company_Info>
     <Program_Info>
         <Program_Name>ImageCrush</Program_Name>
-        <Program_Version>1.1.2</Program_Version>
+        <Program_Version>1.1.3</Program_Version>
         <Program_Release_Month>03</Program_Release_Month>
-        <Program_Release_Day>16</Program_Release_Day>
+        <Program_Release_Day>25</Program_Release_Day>
         <Program_Release_Year>2026</Program_Release_Year>
         <Program_Cost_Dollars>14.99</Program_Cost_Dollars>
         <Program_Cost_Other_Code />
@@ -32,9 +32,9 @@
         <Program_OS_Support>macOS 15.7 or later</Program_OS_Support>
         <Program_Language>English</Program_Language>
         <File_Info>
-            <File_Size_Bytes>7625154</File_Size_Bytes>
-            <File_Size_K>7446</File_Size_K>
-            <File_Size_MB>7.27</File_Size_MB>
+            <File_Size_Bytes>7658289</File_Size_Bytes>
+            <File_Size_K>7479</File_Size_K>
+            <File_Size_MB>7.30</File_Size_MB>
         </File_Info>
         <Program_Specific_Category>Graphics</Program_Specific_Category>
         <Program_Category_Class>Graphics::Converters</Program_Category_Class>
