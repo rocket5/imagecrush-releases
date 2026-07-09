@@ -6,6 +6,25 @@
     <description>Most recent updates to ImageCrush.</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.5</title>
+      <description><![CDATA[
+        <h3>Bug Fixes</h3>
+        <ul>
+          <li>Fixed deactivating a license from within the app not releasing the activation on the licensing server, which could prevent transferring your license to another Mac</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 -0500</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/rocket5/imagecrush-releases/releases/download/v1.1.5/ImageCrush.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="NjxlVvtHmOzWp8HqXChOGqDlkbBKGlp54lcUbs/d6yevGQy8/aVMAXM/vxMK+qexbGXBvZmK8IysJY0p9RSYCw=="
+        length="7662039"
+      />
+    </item>
+    <item>
       <title>Version 1.1.4</title>
       <description><![CDATA[
         <h3>Bug Fixes</h3>
