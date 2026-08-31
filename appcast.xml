@@ -6,6 +6,27 @@
     <description>Most recent updates to ImageCrush.</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.6</title>
+      <description><![CDATA[
+        <h3>Bug Fixes</h3>
+        <ul>
+          <li>Fixed a valid license incorrectly showing as "License Expired" and blocking exports about a week after activation. Re-entering your key only restarted the same countdown. Affected Macs repair themselves on first launch of this version &mdash; there's no need to re-enter your license key</li>
+          <li>Fixed license checks failing permanently when the app lost track of which activation belonged to this Mac. It now recovers automatically, which also makes Deactivate more reliable</li>
+          <li>A license with no expiry date can no longer expire, and only genuine network problems count toward the offline grace period</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 31 Aug 2026 17:30:00 -0400</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/rocket5/imagecrush-releases/releases/download/v1.1.6/ImageCrush.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="8ViW796orEdT1jBXLb6jsAobcXpkPESnLGkZJaxunWHbtoY65y1vw5ceyXR25e6L47Gf6i7lYLd+ifKVHKR4Cw=="
+        length="7674711"
+      />
+    </item>
+    <item>
       <title>Version 1.1.5</title>
       <description><![CDATA[
         <h3>Bug Fixes</h3>
