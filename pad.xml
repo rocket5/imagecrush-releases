@@ -19,22 +19,22 @@
     </Company_Info>
     <Program_Info>
         <Program_Name>ImageCrush</Program_Name>
-        <Program_Version>1.1.6</Program_Version>
-        <Program_Release_Month>08</Program_Release_Month>
-        <Program_Release_Day>31</Program_Release_Day>
+        <Program_Version>1.2.0</Program_Version>
+        <Program_Release_Month>11</Program_Release_Month>
+        <Program_Release_Day>12</Program_Release_Day>
         <Program_Release_Year>2026</Program_Release_Year>
-        <Program_Cost_Dollars>14.99</Program_Cost_Dollars>
+        <Program_Cost_Dollars>9.99</Program_Cost_Dollars>
         <Program_Cost_Other_Code />
         <Program_Cost_Other />
         <Program_Type>Shareware</Program_Type>
-        <Program_Release_Status>Minor Update</Program_Release_Status>
+        <Program_Release_Status>Major Update</Program_Release_Status>
         <Program_Install_Support>No Install Support</Program_Install_Support>
         <Program_OS_Support>macOS 15.7 or later</Program_OS_Support>
         <Program_Language>English</Program_Language>
         <File_Info>
-            <File_Size_Bytes>7674711</File_Size_Bytes>
-            <File_Size_K>7495</File_Size_K>
-            <File_Size_MB>7.32</File_Size_MB>
+            <File_Size_Bytes>7738935</File_Size_Bytes>
+            <File_Size_K>7558</File_Size_K>
+            <File_Size_MB>7.38</File_Size_MB>
         </File_Info>
         <Program_Specific_Category>Graphics</Program_Specific_Category>
         <Program_Category_Class>Graphics::Converters</Program_Category_Class>
@@ -76,7 +76,7 @@ Features include:
     <Web_Info>
         <Application_URLs>
             <Application_Info_URL>https://imagecrush.io</Application_Info_URL>
-            <Application_Order_URL>https://checkout.freemius.com/product/25632/plan/42405/pricing/55862/</Application_Order_URL>
+            <Application_Order_URL>https://www.imagecrush.io/buy</Application_Order_URL>
             <Application_Screenshot_URL>https://imagecrush.io/screenshot.png</Application_Screenshot_URL>
             <Application_Icon_URL>https://imagecrush.io/icon.png</Application_Icon_URL>
             <Application_XML_File_URL>https://raw.githubusercontent.com/rocket5/imagecrush-releases/main/pad.xml</Application_XML_File_URL>

@@ -6,6 +6,36 @@
     <description>Most recent updates to ImageCrush.</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.0</title>
+      <description><![CDATA[
+        <h3>New Features</h3>
+        <ul>
+          <li><strong>Next to Originals</strong> &mdash; save each optimized image beside its original, in an "Optimized" subfolder by default (rename it, or turn the subfolder off). Works when your queue mixes images from several folders. ImageCrush asks once for permission to write to a folder and remembers it</li>
+          <li><strong>If a file already exists: Keep Both or Replace</strong> &mdash; Replace reuses the filename and moves the existing file to the Trash, so you can optimize images in place</li>
+        </ul>
+        <h3>Improvements</h3>
+        <ul>
+          <li>When Export is unavailable in Preset Sequence mode, a message above the Export button now explains why, with a one-click switch back to Single Preset</li>
+          <li>Purchase links now go through imagecrush.io, so you always see the current price and any running sale at checkout</li>
+        </ul>
+        <h3>Bug Fixes</h3>
+        <ul>
+          <li>Fixed Export staying clickable but doing nothing when the selected preset sequence had no presets left</li>
+          <li>Fixed two images with the same output name occasionally overwriting each other instead of one getting a numbered name</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 12 Nov 2026 12:45:00 -0500</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/rocket5/imagecrush-releases/releases/download/v1.2.0/ImageCrush.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="dzyGIkL9tIDFjnC5byHipwq6sCwpObGefrPLUgbpg2kVfvvLCC60YvTajxSvnelCdQq29j89W9fUHAe+rUIrCA=="
+        length="7738935"
+      />
+    </item>
+    <item>
       <title>Version 1.1.6</title>
       <description><![CDATA[
         <h3>Bug Fixes</h3>
